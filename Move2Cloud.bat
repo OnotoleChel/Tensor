@@ -43,6 +43,11 @@ set datestamp=%datetime:~0,8%
 set timestamp=%datetime:~8,6%
 set commit_message=%COMMIT_MESSAGE_PREFIX% %datestamp%_%timestamp:~0,2%:%timestamp:~2,2%:%timestamp:~4,2%
 
+:: Если папка пустая — создаём README.md
+if not exist "README.md" (
+    echo # Initial commit > README.md
+)
+
 :: Добавление всех изменений
 echo Добавление изменений в репозиторий...
 git add .
@@ -71,15 +76,26 @@ if %ERRORLEVEL% equ 0 (
 :: Проверка наличия ветки main
 echo Проверка наличия ветки main...
 git show-ref --verify --quiet refs/heads/main
-if %ERRORLEVEL% neq 0 (
-    echo Ветка main не найдена. Создание ветки main...
-    git checkout -b main
-    if %ERRORLEVEL% neq 0 (
-        echo Ошибка: не удалось создать ветку main.
-        pause
-        exit /b 1
-    )
+if %ERRORLEVEL% equ 0 (
+    echo Ветка main уже существует.
+    goto skip_create_branch
 )
+
+:: Создание ветки main
+echo Ветка main не найдена. Создание ветки main...
+git checkout -b main >nul 2>&1
+
+:: Проверка, создалась ли ветка
+git show-ref --verify --quiet refs/heads/main
+if %ERRORLEVEL% equ 0 (
+    echo Ветка main успешно создана.
+) else (
+    echo Ошибка: не удалось создать ветку main.
+    pause
+    exit /b 1
+)
+
+:skip_create_branch
 
 :: Проверка наличия удалённого репозитория
 echo Проверка наличия удалённого репозитория...
