@@ -14,6 +14,8 @@
 { "name": "hello world ", "sVersion": "25.3000", "files": [“server.js”] }
 Архив app01012024.zip
 Все действия сопровождать сообщения в консоль(логирование процесса) с указанием времени исполнения
+
+!ДОБАВЛЕНА ВОЗМОЖНОСТЬ БРАТЬ ДАННЫЕ ИЗ ФАЙЛА Task3ini.txt
 """
 import json
 import logger_module
@@ -29,8 +31,8 @@ REPO_DIR = "repo_clone"
 INI_FILE = (os.path.basename(sys.argv[0])).replace(".py", "") + "ini.txt" #файл настроек
 
 # Определение имени файла лога
-script_name = os.path.basename(sys.argv[0]).replace(".py", "_Log.txt")
-LOG_FILE = f"{script_name}.log"
+#script_name = os.path.basename(sys.argv[0]).replace(".py", "_Log.txt")
+LOG_FILE = f"{os.path.basename(sys.argv[0]).replace(".py", "_Log.txt")}.log"
 
 def remove_readonly(func, path, exc_info):
     """Функция для удаления файлов с атрибутом 'только для чтения'."""
