@@ -1,0 +1,376 @@
+2025-05-22 15:14:35,660 - INFO - ------------------------------
+new log------------------------------
+2025-05-22 15:14:35,660 - INFO - Запрос #1:
+2025-05-22 15:14:35,664 - DEBUG - ?DEBUG? Начало выполнения запроса.
+2025-05-22 15:14:35,667 - DEBUG - Starting new HTTPS connection (1): yandex.com:443
+2025-05-22 15:14:35,851 - DEBUG - https://yandex.com:443 "GET /time/sync.json?geo=213%20 HTTP/1.1" 200 373
+2025-05-22 15:14:35,854 - DEBUG - ?DEBUG? Сырой ответ от сервера:
+2025-05-22 15:14:35,858 - DEBUG - ?DEBUG? {
+  "time": 1747916077722,
+  "clocks": {
+    "213": {
+      "id": 213,
+      "name": "Moscow",
+      "offset": 10800000,
+      "offsetString": "UTC+3:00",
+      "showSunriseSunset": true,
+      "sunrise": "04:06",
+      "sunset": "20:46",
+      "isNight": false,
+      "skyColor": "#67bef8",
+      "weather": {
+        "temp": 24,
+        "icon": "skc-d",
+        "link": "https://yandex.ru/pogoda/213?lat=55.755863&lon=37.6177"
+      },
+      "parents": [
+        {
+          "id": 225,
+          "name": "Russia"
+        }
+      ]
+    },
+    "isSensetiveRegion": false
+  }
+}
+2025-05-22 15:14:35,859 - INFO - Время: 2025-05-22 15:14:37
+2025-05-22 15:14:35,861 - INFO - Часовой пояс: Неизвестно
+2025-05-22 15:14:35,863 - INFO - Дельта: 2.057 сек
+
+2025-05-22 15:14:36,864 - INFO - Запрос #2:
+2025-05-22 15:14:36,866 - DEBUG - ?DEBUG? Начало выполнения запроса.
+2025-05-22 15:14:36,867 - DEBUG - Starting new HTTPS connection (1): yandex.com:443
+2025-05-22 15:14:37,004 - DEBUG - https://yandex.com:443 "GET /time/sync.json?geo=213%20 HTTP/1.1" 200 373
+2025-05-22 15:14:37,007 - DEBUG - ?DEBUG? Сырой ответ от сервера:
+2025-05-22 15:14:37,013 - DEBUG - ?DEBUG? {
+  "time": 1747916078884,
+  "clocks": {
+    "213": {
+      "id": 213,
+      "name": "Moscow",
+      "offset": 10800000,
+      "offsetString": "UTC+3:00",
+      "showSunriseSunset": true,
+      "sunrise": "04:06",
+      "sunset": "20:46",
+      "isNight": false,
+      "skyColor": "#67bef8",
+      "weather": {
+        "temp": 24,
+        "icon": "skc-d",
+        "link": "https://yandex.ru/pogoda/213?lat=55.755863&lon=37.6177"
+      },
+      "parents": [
+        {
+          "id": 225,
+          "name": "Russia"
+        }
+      ]
+    },
+    "isSensetiveRegion": false
+  }
+}
+2025-05-22 15:14:37,014 - INFO - Время: 2025-05-22 15:14:38
+2025-05-22 15:14:37,015 - INFO - Часовой пояс: Неизвестно
+2025-05-22 15:14:37,018 - INFO - Дельта: 2.018 сек
+
+2025-05-22 15:14:38,019 - INFO - Запрос #3:
+2025-05-22 15:14:38,021 - DEBUG - ?DEBUG? Начало выполнения запроса.
+2025-05-22 15:14:38,022 - DEBUG - Starting new HTTPS connection (1): yandex.com:443
+2025-05-22 15:14:38,155 - DEBUG - https://yandex.com:443 "GET /time/sync.json?geo=213%20 HTTP/1.1" 200 373
+2025-05-22 15:14:38,157 - DEBUG - ?DEBUG? Сырой ответ от сервера:
+2025-05-22 15:14:38,162 - DEBUG - ?DEBUG? {
+  "time": 1747916080035,
+  "clocks": {
+    "213": {
+      "id": 213,
+      "name": "Moscow",
+      "offset": 10800000,
+      "offsetString": "UTC+3:00",
+      "showSunriseSunset": true,
+      "sunrise": "04:06",
+      "sunset": "20:46",
+      "isNight": false,
+      "skyColor": "#67bef8",
+      "weather": {
+        "temp": 24,
+        "icon": "skc-d",
+        "link": "https://yandex.ru/pogoda/213?lat=55.755863&lon=37.6177"
+      },
+      "parents": [
+        {
+          "id": 225,
+          "name": "Russia"
+        }
+      ]
+    },
+    "isSensetiveRegion": false
+  }
+}
+2025-05-22 15:14:38,163 - INFO - Время: 2025-05-22 15:14:40
+2025-05-22 15:14:38,165 - INFO - Часовой пояс: Неизвестно
+2025-05-22 15:14:38,167 - INFO - Дельта: 2.013 сек
+
+2025-05-22 15:14:39,168 - INFO - Запрос #4:
+2025-05-22 15:14:39,171 - DEBUG - ?DEBUG? Начало выполнения запроса.
+2025-05-22 15:14:39,172 - DEBUG - Starting new HTTPS connection (1): yandex.com:443
+2025-05-22 15:14:39,276 - DEBUG - https://yandex.com:443 "GET /time/sync.json?geo=213%20 HTTP/1.1" 200 373
+2025-05-22 15:14:39,279 - DEBUG - ?DEBUG? Сырой ответ от сервера:
+2025-05-22 15:14:39,284 - DEBUG - ?DEBUG? {
+  "time": 1747916081159,
+  "clocks": {
+    "213": {
+      "id": 213,
+      "name": "Moscow",
+      "offset": 10800000,
+      "offsetString": "UTC+3:00",
+      "showSunriseSunset": true,
+      "sunrise": "04:06",
+      "sunset": "20:46",
+      "isNight": false,
+      "skyColor": "#67bef8",
+      "weather": {
+        "temp": 24,
+        "icon": "skc-d",
+        "link": "https://yandex.ru/pogoda/213?lat=55.755863&lon=37.6177"
+      },
+      "parents": [
+        {
+          "id": 225,
+          "name": "Russia"
+        }
+      ]
+    },
+    "isSensetiveRegion": false
+  }
+}
+2025-05-22 15:14:39,285 - INFO - Время: 2025-05-22 15:14:41
+2025-05-22 15:14:39,288 - INFO - Часовой пояс: Неизвестно
+2025-05-22 15:14:39,290 - INFO - Дельта: 1.988 сек
+
+2025-05-22 15:14:40,291 - INFO - Запрос #5:
+2025-05-22 15:14:40,295 - DEBUG - ?DEBUG? Начало выполнения запроса.
+2025-05-22 15:14:40,297 - DEBUG - Starting new HTTPS connection (1): yandex.com:443
+2025-05-22 15:14:40,397 - DEBUG - https://yandex.com:443 "GET /time/sync.json?geo=213%20 HTTP/1.1" 200 373
+2025-05-22 15:14:40,398 - DEBUG - ?DEBUG? Сырой ответ от сервера:
+2025-05-22 15:14:40,404 - DEBUG - ?DEBUG? {
+  "time": 1747916082279,
+  "clocks": {
+    "213": {
+      "id": 213,
+      "name": "Moscow",
+      "offset": 10800000,
+      "offsetString": "UTC+3:00",
+      "showSunriseSunset": true,
+      "sunrise": "04:06",
+      "sunset": "20:46",
+      "isNight": false,
+      "skyColor": "#67bef8",
+      "weather": {
+        "temp": 24,
+        "icon": "skc-d",
+        "link": "https://yandex.ru/pogoda/213?lat=55.755863&lon=37.6177"
+      },
+      "parents": [
+        {
+          "id": 225,
+          "name": "Russia"
+        }
+      ]
+    },
+    "isSensetiveRegion": false
+  }
+}
+2025-05-22 15:14:40,405 - INFO - Время: 2025-05-22 15:14:42
+2025-05-22 15:14:40,406 - INFO - Часовой пояс: Неизвестно
+2025-05-22 15:14:40,408 - INFO - Дельта: 1.983 сек
+
+2025-05-22 15:14:41,410 - INFO - Средняя дельта: 2.012 сек
+2025-05-22 15:15:15,093 - INFO - ------------------------------
+new log------------------------------
+2025-05-22 15:15:15,093 - INFO - Запрос #1:
+2025-05-22 15:15:15,095 - DEBUG - ?DEBUG? Начало выполнения запроса.
+2025-05-22 15:15:15,097 - DEBUG - Starting new HTTPS connection (1): yandex.com:443
+2025-05-22 15:15:15,216 - DEBUG - https://yandex.com:443 "GET /time/sync.json?geo=213%20 HTTP/1.1" 200 373
+2025-05-22 15:15:15,219 - DEBUG - ?DEBUG? Сырой ответ от сервера:
+2025-05-22 15:15:15,222 - DEBUG - ?DEBUG? {
+  "time": 1747916117097,
+  "clocks": {
+    "213": {
+      "id": 213,
+      "name": "Moscow",
+      "offset": 10800000,
+      "offsetString": "UTC+3:00",
+      "showSunriseSunset": true,
+      "sunrise": "04:06",
+      "sunset": "20:46",
+      "isNight": false,
+      "skyColor": "#67bef8",
+      "weather": {
+        "temp": 24,
+        "icon": "skc-d",
+        "link": "https://yandex.ru/pogoda/213?lat=55.755863&lon=37.6177"
+      },
+      "parents": [
+        {
+          "id": 225,
+          "name": "Russia"
+        }
+      ]
+    },
+    "isSensetiveRegion": false
+  }
+}
+2025-05-22 15:15:15,224 - INFO - Время: 2025-05-22 15:15:17
+2025-05-22 15:15:15,226 - INFO - Часовой пояс: Неизвестно
+2025-05-22 15:15:15,228 - INFO - Дельта: 2.002 сек
+
+2025-05-22 15:15:16,230 - INFO - Запрос #2:
+2025-05-22 15:15:16,232 - DEBUG - ?DEBUG? Начало выполнения запроса.
+2025-05-22 15:15:16,234 - DEBUG - Starting new HTTPS connection (1): yandex.com:443
+2025-05-22 15:15:16,328 - DEBUG - https://yandex.com:443 "GET /time/sync.json?geo=213%20 HTTP/1.1" 200 373
+2025-05-22 15:15:16,331 - DEBUG - ?DEBUG? Сырой ответ от сервера:
+2025-05-22 15:15:16,336 - DEBUG - ?DEBUG? {
+  "time": 1747916118212,
+  "clocks": {
+    "213": {
+      "id": 213,
+      "name": "Moscow",
+      "offset": 10800000,
+      "offsetString": "UTC+3:00",
+      "showSunriseSunset": true,
+      "sunrise": "04:06",
+      "sunset": "20:46",
+      "isNight": false,
+      "skyColor": "#67bef8",
+      "weather": {
+        "temp": 24,
+        "icon": "skc-d",
+        "link": "https://yandex.ru/pogoda/213?lat=55.755863&lon=37.6177"
+      },
+      "parents": [
+        {
+          "id": 225,
+          "name": "Russia"
+        }
+      ]
+    },
+    "isSensetiveRegion": false
+  }
+}
+2025-05-22 15:15:16,339 - INFO - Время: 2025-05-22 15:15:18
+2025-05-22 15:15:16,340 - INFO - Часовой пояс: Неизвестно
+2025-05-22 15:15:16,342 - INFO - Дельта: 1.980 сек
+
+2025-05-22 15:15:17,343 - INFO - Запрос #3:
+2025-05-22 15:15:17,346 - DEBUG - ?DEBUG? Начало выполнения запроса.
+2025-05-22 15:15:17,348 - DEBUG - Starting new HTTPS connection (1): yandex.com:443
+2025-05-22 15:15:17,454 - DEBUG - https://yandex.com:443 "GET /time/sync.json?geo=213%20 HTTP/1.1" 200 373
+2025-05-22 15:15:17,457 - DEBUG - ?DEBUG? Сырой ответ от сервера:
+2025-05-22 15:15:17,462 - DEBUG - ?DEBUG? {
+  "time": 1747916119336,
+  "clocks": {
+    "213": {
+      "id": 213,
+      "name": "Moscow",
+      "offset": 10800000,
+      "offsetString": "UTC+3:00",
+      "showSunriseSunset": true,
+      "sunrise": "04:06",
+      "sunset": "20:46",
+      "isNight": false,
+      "skyColor": "#67bef8",
+      "weather": {
+        "temp": 24,
+        "icon": "skc-d",
+        "link": "https://yandex.ru/pogoda/213?lat=55.755863&lon=37.6177"
+      },
+      "parents": [
+        {
+          "id": 225,
+          "name": "Russia"
+        }
+      ]
+    },
+    "isSensetiveRegion": false
+  }
+}
+2025-05-22 15:15:17,463 - INFO - Время: 2025-05-22 15:15:19
+2025-05-22 15:15:17,465 - INFO - Часовой пояс: Неизвестно
+2025-05-22 15:15:17,467 - INFO - Дельта: 1.990 сек
+
+2025-05-22 15:15:18,468 - INFO - Запрос #4:
+2025-05-22 15:15:18,471 - DEBUG - ?DEBUG? Начало выполнения запроса.
+2025-05-22 15:15:18,473 - DEBUG - Starting new HTTPS connection (1): yandex.com:443
+2025-05-22 15:15:18,571 - DEBUG - https://yandex.com:443 "GET /time/sync.json?geo=213%20 HTTP/1.1" 200 373
+2025-05-22 15:15:18,574 - DEBUG - ?DEBUG? Сырой ответ от сервера:
+2025-05-22 15:15:18,580 - DEBUG - ?DEBUG? {
+  "time": 1747916120453,
+  "clocks": {
+    "213": {
+      "id": 213,
+      "name": "Moscow",
+      "offset": 10800000,
+      "offsetString": "UTC+3:00",
+      "showSunriseSunset": true,
+      "sunrise": "04:06",
+      "sunset": "20:46",
+      "isNight": false,
+      "skyColor": "#67bef8",
+      "weather": {
+        "temp": 24,
+        "icon": "skc-d",
+        "link": "https://yandex.ru/pogoda/213?lat=55.755863&lon=37.6177"
+      },
+      "parents": [
+        {
+          "id": 225,
+          "name": "Russia"
+        }
+      ]
+    },
+    "isSensetiveRegion": false
+  }
+}
+2025-05-22 15:15:18,581 - INFO - Время: 2025-05-22 15:15:20
+2025-05-22 15:15:18,584 - INFO - Часовой пояс: Неизвестно
+2025-05-22 15:15:18,586 - INFO - Дельта: 1.981 сек
+
+2025-05-22 15:15:19,588 - INFO - Запрос #5:
+2025-05-22 15:15:19,590 - DEBUG - ?DEBUG? Начало выполнения запроса.
+2025-05-22 15:15:19,592 - DEBUG - Starting new HTTPS connection (1): yandex.com:443
+2025-05-22 15:15:19,720 - DEBUG - https://yandex.com:443 "GET /time/sync.json?geo=213%20 HTTP/1.1" 200 373
+2025-05-22 15:15:19,723 - DEBUG - ?DEBUG? Сырой ответ от сервера:
+2025-05-22 15:15:19,729 - DEBUG - ?DEBUG? {
+  "time": 1747916121600,
+  "clocks": {
+    "213": {
+      "id": 213,
+      "name": "Moscow",
+      "offset": 10800000,
+      "offsetString": "UTC+3:00",
+      "showSunriseSunset": true,
+      "sunrise": "04:06",
+      "sunset": "20:46",
+      "isNight": false,
+      "skyColor": "#67bef8",
+      "weather": {
+        "temp": 24,
+        "icon": "skc-d",
+        "link": "https://yandex.ru/pogoda/213?lat=55.755863&lon=37.6177"
+      },
+      "parents": [
+        {
+          "id": 225,
+          "name": "Russia"
+        }
+      ]
+    },
+    "isSensetiveRegion": false
+  }
+}
+2025-05-22 15:15:19,730 - INFO - Время: 2025-05-22 15:15:21
+2025-05-22 15:15:19,731 - INFO - Часовой пояс: Неизвестно
+2025-05-22 15:15:19,733 - INFO - Дельта: 2.009 сек
+
+2025-05-22 15:15:20,735 - INFO - Средняя дельта: 1.992 сек

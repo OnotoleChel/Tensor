@@ -1,0 +1,35 @@
+2025-05-22 15:21:49,239 - INFO - ------------------------------
+new log------------------------------
+2025-05-22 15:21:49,240 - INFO - Начало выполнения скрипта
+2025-05-22 15:21:49,243 - INFO - Файл UnitTests2ini.txt найден. Чтение параметров...
+2025-05-22 15:21:49,245 - INFO - Используемые параметры:
+2025-05-22 15:21:49,246 - INFO -   repo_url = https://github.com/OnotoleChel/Tensor
+2025-05-22 15:21:49,247 - INFO -   src_path = src\app
+2025-05-22 15:21:49,248 - INFO -   version  = 25.3000
+2025-05-22 15:21:49,250 - INFO - Клонирование репозитория https://github.com/OnotoleChel/Tensor
+2025-05-22 15:21:50,300 - INFO - Репозиторий успешно клонирован в repo_clone
+2025-05-22 15:21:50,302 - INFO - Переход в директорию repo_clone
+2025-05-22 15:21:50,305 - INFO - Обработка части пути: src
+2025-05-22 15:21:50,307 - INFO - Удаление директории C:\Pyth\TenTes\repo_clone\.git
+2025-05-22 15:21:50,320 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\config.json
+2025-05-22 15:21:50,322 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\logger_module.py
+2025-05-22 15:21:50,324 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Move2Cloud.bat
+2025-05-22 15:21:50,325 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\README.md
+2025-05-22 15:21:50,326 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task1.py
+2025-05-22 15:21:50,328 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task1.txt
+2025-05-22 15:21:50,329 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task2.py
+2025-05-22 15:21:50,330 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task2ini.txt
+2025-05-22 15:21:50,332 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task2_Log.txt.log
+2025-05-22 15:21:50,333 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task3.py
+2025-05-22 15:21:50,334 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task3ini.txt
+2025-05-22 15:21:50,335 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task3_Log.txt
+2025-05-22 15:21:50,337 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task4.bat
+2025-05-22 15:21:50,338 - INFO - Удаление директории C:\Pyth\TenTes\repo_clone\__pycache__
+2025-05-22 15:21:50,343 - INFO - Переход в директорию src
+2025-05-22 15:21:50,345 - INFO - Обработка части пути: app
+2025-05-22 15:21:50,346 - INFO - Переход в директорию app
+2025-05-22 15:21:50,348 - INFO - Сборка списка файлов для sVersion.json
+2025-05-22 15:21:50,351 - INFO - Файл sVersion.json успешно создан
+2025-05-22 15:21:50,352 - INFO - Создание архива app22052025.zip
+2025-05-22 15:21:50,355 - INFO - Архив app22052025.zip успешно создан
+2025-05-22 15:21:50,357 - INFO - Скрипт успешно завершён

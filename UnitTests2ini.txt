@@ -1,0 +1,6 @@
+# Файл конфигурации для сборочного скрипта
+# Укажите параметры в формате ключ=значение
+
+repo_url=https://github.com/OnotoleChel/Tensor
+src_path=src\app
+version=25.3000
