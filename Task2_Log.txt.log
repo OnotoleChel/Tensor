@@ -30,3 +30,263 @@ new log------------------------------
 2025-05-21 18:46:05,072 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\main.py
 2025-05-21 18:46:05,073 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\README.md
 2025-05-21 18:46:05,074 - ERROR - !ERROR! Не удалось перейти в директорию src/app: [WinError 3] Системе не удается найти указанный путь: 'src/app'
+2025-05-22 13:33:41,986 - INFO - ------------------------------
+new log------------------------------
+2025-05-22 13:33:41,987 - INFO - Начало выполнения скрипта
+2025-05-22 13:33:41,987 - INFO - Файл Task2ini.txt найден. Чтение параметров...
+2025-05-22 13:33:41,988 - INFO - Используемые параметры:
+2025-05-22 13:33:41,988 - INFO -   repo_url = https://github.com/OnotoleChel/Tensor
+2025-05-22 13:33:41,988 - INFO -   src_path = src/app
+2025-05-22 13:33:41,988 - INFO -   version  = 25.3000
+2025-05-22 13:33:41,989 - INFO - Клонирование репозитория https://github.com/OnotoleChel/Tensor
+2025-05-22 13:33:43,182 - INFO - Репозиторий успешно клонирован в repo_clone
+2025-05-22 13:33:43,183 - INFO - Переход в директорию repo_clone
+2025-05-22 13:33:43,184 - INFO - Обработка части пути: src/app
+2025-05-22 13:33:43,184 - INFO - Удаление директории C:\Pyth\TenTes\repo_clone\.git
+2025-05-22 13:33:43,197 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\logger_module.py
+2025-05-22 13:33:43,198 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Move2Cloud.bat
+2025-05-22 13:33:43,198 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\README.md
+2025-05-22 13:33:43,199 - INFO - Удаление директории C:\Pyth\TenTes\repo_clone\src
+2025-05-22 13:33:43,200 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task1.py
+2025-05-22 13:33:43,201 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task1.txt
+2025-05-22 13:33:43,202 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task2.py
+2025-05-22 13:33:43,202 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task2ini.txt
+2025-05-22 13:33:43,203 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task2_Log.txt.log
+2025-05-22 13:33:43,203 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task3.py
+2025-05-22 13:33:43,204 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task4.bat
+2025-05-22 13:33:43,205 - INFO - Удаление директории C:\Pyth\TenTes\repo_clone\__pycache__
+2025-05-22 13:33:43,206 - ERROR - !ERROR! Не удалось перейти в директорию src/app: [WinError 3] Системе не удается найти указанный путь: 'src/app'
+2025-05-22 13:34:28,321 - INFO - ------------------------------
+new log------------------------------
+2025-05-22 13:34:28,322 - INFO - Начало выполнения скрипта
+2025-05-22 13:34:28,322 - INFO - Файл Task2ini.txt найден. Чтение параметров...
+2025-05-22 13:34:28,323 - INFO - Используемые параметры:
+2025-05-22 13:34:28,323 - INFO -   repo_url = https://github.com/OnotoleChel/Tensor
+2025-05-22 13:34:28,323 - INFO -   src_path = src/app
+2025-05-22 13:34:28,323 - INFO -   version  = 25.3000
+2025-05-22 13:34:28,324 - INFO - Клонирование репозитория https://github.com/OnotoleChel/Tensor
+2025-05-22 13:34:29,423 - INFO - Репозиторий успешно клонирован в repo_clone
+2025-05-22 13:34:29,424 - INFO - Переход в директорию repo_clone
+2025-05-22 13:34:29,424 - INFO - Обработка части пути: src/app
+2025-05-22 13:34:29,425 - INFO - Удаление директории C:\Pyth\TenTes\repo_clone\.git
+2025-05-22 13:34:29,438 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\logger_module.py
+2025-05-22 13:34:29,438 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Move2Cloud.bat
+2025-05-22 13:34:29,439 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\README.md
+2025-05-22 13:34:29,440 - INFO - Удаление директории C:\Pyth\TenTes\repo_clone\src
+2025-05-22 13:34:29,442 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task1.py
+2025-05-22 13:34:29,445 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task1.txt
+2025-05-22 13:34:29,447 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task2.py
+2025-05-22 13:34:29,448 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task2ini.txt
+2025-05-22 13:34:29,449 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task2_Log.txt.log
+2025-05-22 13:34:29,450 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task3.py
+2025-05-22 13:34:29,452 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task4.bat
+2025-05-22 13:34:29,453 - INFO - Удаление директории C:\Pyth\TenTes\repo_clone\__pycache__
+2025-05-22 13:34:29,454 - ERROR - !ERROR! Не удалось перейти в директорию src/app: [WinError 3] Системе не удается найти указанный путь: 'src/app'
+2025-05-22 13:35:31,845 - INFO - ------------------------------
+new log------------------------------
+2025-05-22 13:35:31,845 - INFO - Начало выполнения скрипта
+2025-05-22 13:35:31,845 - INFO - Файл Task2ini.txt найден. Чтение параметров...
+2025-05-22 13:35:31,846 - INFO - Используемые параметры:
+2025-05-22 13:35:31,846 - INFO -   repo_url = https://github.com/OnotoleChel/Tensor
+2025-05-22 13:35:31,846 - INFO -   src_path = src/app
+2025-05-22 13:35:31,847 - INFO -   version  = 25.3000
+2025-05-22 13:35:31,847 - INFO - Клонирование репозитория https://github.com/OnotoleChel/Tensor
+2025-05-22 13:35:32,881 - INFO - Репозиторий успешно клонирован в repo_clone
+2025-05-22 13:35:32,881 - INFO - Переход в директорию repo_clone
+2025-05-22 13:35:32,881 - INFO - Обработка части пути: src/app
+2025-05-22 13:35:32,882 - INFO - Удаление директории C:\Pyth\TenTes\repo_clone\.git
+2025-05-22 13:35:32,899 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\logger_module.py
+2025-05-22 13:35:32,900 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Move2Cloud.bat
+2025-05-22 13:35:32,901 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\README.md
+2025-05-22 13:35:32,901 - INFO - Удаление директории C:\Pyth\TenTes\repo_clone\src
+2025-05-22 13:35:32,904 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task1.py
+2025-05-22 13:35:32,904 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task1.txt
+2025-05-22 13:35:32,905 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task2.py
+2025-05-22 13:35:32,905 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task2ini.txt
+2025-05-22 13:35:32,906 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task2_Log.txt.log
+2025-05-22 13:35:32,907 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task3.py
+2025-05-22 13:35:32,907 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task4.bat
+2025-05-22 13:35:32,908 - INFO - Удаление директории C:\Pyth\TenTes\repo_clone\__pycache__
+2025-05-22 13:35:32,910 - ERROR - !ERROR! Не удалось перейти в директорию src/app: [WinError 3] Системе не удается найти указанный путь: 'src/app'
+2025-05-22 13:35:37,847 - INFO - ------------------------------
+new log------------------------------
+2025-05-22 13:35:37,847 - INFO - Начало выполнения скрипта
+2025-05-22 13:35:37,850 - INFO - Файл Task2ini.txt найден. Чтение параметров...
+2025-05-22 13:35:37,851 - INFO - Используемые параметры:
+2025-05-22 13:35:37,852 - INFO -   repo_url = https://github.com/OnotoleChel/Tensor
+2025-05-22 13:35:37,855 - INFO -   src_path = src/app
+2025-05-22 13:35:37,859 - INFO -   version  = 25.3000
+2025-05-22 13:35:37,859 - INFO - Клонирование репозитория https://github.com/OnotoleChel/Tensor
+2025-05-22 13:35:38,967 - INFO - Репозиторий успешно клонирован в repo_clone
+2025-05-22 13:35:38,968 - INFO - Переход в директорию repo_clone
+2025-05-22 13:35:38,970 - INFO - Обработка части пути: src/app
+2025-05-22 13:35:38,971 - INFO - Удаление директории C:\Pyth\TenTes\repo_clone\.git
+2025-05-22 13:35:38,985 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\logger_module.py
+2025-05-22 13:35:38,987 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Move2Cloud.bat
+2025-05-22 13:35:38,988 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\README.md
+2025-05-22 13:35:38,990 - INFO - Удаление директории C:\Pyth\TenTes\repo_clone\src
+2025-05-22 13:35:38,991 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task1.py
+2025-05-22 13:35:38,993 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task1.txt
+2025-05-22 13:35:38,994 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task2.py
+2025-05-22 13:35:38,995 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task2ini.txt
+2025-05-22 13:35:38,996 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task2_Log.txt.log
+2025-05-22 13:35:38,997 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task3.py
+2025-05-22 13:35:38,999 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task4.bat
+2025-05-22 13:35:39,000 - INFO - Удаление директории C:\Pyth\TenTes\repo_clone\__pycache__
+2025-05-22 13:35:39,001 - ERROR - !ERROR! Не удалось перейти в директорию src/app: [WinError 3] Системе не удается найти указанный путь: 'src/app'
+2025-05-22 13:36:05,602 - INFO - ------------------------------
+new log------------------------------
+2025-05-22 13:36:05,603 - INFO - Начало выполнения скрипта
+2025-05-22 13:36:05,606 - INFO - Файл Task2ini.txt найден. Чтение параметров...
+2025-05-22 13:36:05,607 - INFO - Используемые параметры:
+2025-05-22 13:36:05,609 - INFO -   repo_url = https://github.com/OnotoleChel/Tensor
+2025-05-22 13:36:05,610 - INFO -   src_path = src/app
+2025-05-22 13:36:05,611 - INFO -   version  = 25.3000
+2025-05-22 13:36:05,614 - INFO - Клонирование репозитория https://github.com/OnotoleChel/Tensor
+2025-05-22 13:36:06,724 - INFO - Репозиторий успешно клонирован в repo_clone
+2025-05-22 13:36:06,727 - INFO - Переход в директорию repo_clone
+2025-05-22 13:36:06,730 - INFO - Скрипт успешно завершён
+2025-05-22 13:36:50,444 - INFO - ------------------------------
+new log------------------------------
+2025-05-22 13:36:50,444 - INFO - Начало выполнения скрипта
+2025-05-22 13:36:50,445 - INFO - Файл Task2ini.txt найден. Чтение параметров...
+2025-05-22 13:36:50,445 - INFO - Используемые параметры:
+2025-05-22 13:36:50,445 - INFO -   repo_url = https://github.com/OnotoleChel/Tensor
+2025-05-22 13:36:50,446 - INFO -   src_path = src/app
+2025-05-22 13:36:50,446 - INFO -   version  = 25.3000
+2025-05-22 13:36:50,446 - INFO - Клонирование репозитория https://github.com/OnotoleChel/Tensor
+2025-05-22 13:36:51,561 - INFO - Репозиторий успешно клонирован в repo_clone
+2025-05-22 13:36:51,562 - INFO - Переход в директорию repo_clone
+2025-05-22 13:36:51,562 - INFO - Обработка части пути: src/app
+2025-05-22 13:36:51,562 - INFO - Удаление директории C:\Pyth\TenTes\repo_clone\.git
+2025-05-22 13:36:51,575 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\logger_module.py
+2025-05-22 13:36:51,576 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Move2Cloud.bat
+2025-05-22 13:36:51,577 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\README.md
+2025-05-22 13:36:51,577 - INFO - Удаление директории C:\Pyth\TenTes\repo_clone\src
+2025-05-22 13:36:51,579 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task1.py
+2025-05-22 13:36:51,580 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task1.txt
+2025-05-22 13:36:51,580 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task2.py
+2025-05-22 13:36:51,581 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task2ini.txt
+2025-05-22 13:36:51,581 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task2_Log.txt.log
+2025-05-22 13:36:51,582 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task3.py
+2025-05-22 13:36:51,582 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task4.bat
+2025-05-22 13:36:51,583 - INFO - Удаление директории C:\Pyth\TenTes\repo_clone\__pycache__
+2025-05-22 13:36:51,584 - ERROR - !ERROR! Не удалось перейти в директорию src/app: [WinError 3] Системе не удается найти указанный путь: 'src/app'
+2025-05-22 13:37:00,741 - INFO - ------------------------------
+new log------------------------------
+2025-05-22 13:37:00,742 - INFO - Начало выполнения скрипта
+2025-05-22 13:37:00,744 - INFO - Файл Task2ini.txt найден. Чтение параметров...
+2025-05-22 13:37:00,745 - INFO - Используемые параметры:
+2025-05-22 13:37:00,747 - INFO -   repo_url = https://github.com/OnotoleChel/Tensor
+2025-05-22 13:37:00,748 - INFO -   src_path = src/app
+2025-05-22 13:37:00,749 - INFO -   version  = 25.3000
+2025-05-22 13:37:00,750 - INFO - Клонирование репозитория https://github.com/OnotoleChel/Tensor
+2025-05-22 13:37:01,770 - INFO - Репозиторий успешно клонирован в repo_clone
+2025-05-22 13:37:01,772 - INFO - Переход в директорию repo_clone
+2025-05-22 13:37:01,773 - INFO - Обработка части пути: src/app
+2025-05-22 13:37:01,774 - INFO - Удаление директории C:\Pyth\TenTes\repo_clone\.git
+2025-05-22 13:37:01,787 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\logger_module.py
+2025-05-22 13:37:01,790 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Move2Cloud.bat
+2025-05-22 13:37:01,792 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\README.md
+2025-05-22 13:37:01,794 - INFO - Удаление директории C:\Pyth\TenTes\repo_clone\src
+2025-05-22 13:37:01,797 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task1.py
+2025-05-22 13:37:01,798 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task1.txt
+2025-05-22 13:37:01,799 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task2.py
+2025-05-22 13:37:01,801 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task2ini.txt
+2025-05-22 13:37:01,802 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task2_Log.txt.log
+2025-05-22 13:37:01,802 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task3.py
+2025-05-22 13:37:01,803 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task4.bat
+2025-05-22 13:37:01,808 - INFO - Удаление директории C:\Pyth\TenTes\repo_clone\__pycache__
+2025-05-22 13:37:01,810 - ERROR - !ERROR! Не удалось перейти в директорию src/app: [WinError 3] Системе не удается найти указанный путь: 'src/app'
+2025-05-22 13:38:41,188 - INFO - ------------------------------
+new log------------------------------
+2025-05-22 13:38:41,189 - INFO - Начало выполнения скрипта
+2025-05-22 13:38:41,193 - INFO - Файл Task2ini.txt найден. Чтение параметров...
+2025-05-22 13:38:41,196 - INFO - Используемые параметры:
+2025-05-22 13:38:41,197 - INFO -   repo_url = https://github.com/OnotoleChel/Tensor
+2025-05-22 13:38:41,199 - INFO -   src_path = src\app
+2025-05-22 13:38:41,200 - INFO -   version  = 25.3000
+2025-05-22 13:38:41,203 - INFO - Клонирование репозитория https://github.com/OnotoleChel/Tensor
+2025-05-22 13:38:42,275 - INFO - Репозиторий успешно клонирован в repo_clone
+2025-05-22 13:38:42,277 - INFO - Переход в директорию repo_clone
+2025-05-22 13:38:42,278 - INFO - Обработка части пути: src
+2025-05-22 13:38:42,283 - INFO - Удаление директории C:\Pyth\TenTes\repo_clone\.git
+2025-05-22 13:38:42,300 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\logger_module.py
+2025-05-22 13:38:42,301 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Move2Cloud.bat
+2025-05-22 13:38:42,302 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\README.md
+2025-05-22 13:38:42,303 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task1.py
+2025-05-22 13:38:42,304 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task1.txt
+2025-05-22 13:38:42,306 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task2.py
+2025-05-22 13:38:42,307 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task2ini.txt
+2025-05-22 13:38:42,308 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task2_Log.txt.log
+2025-05-22 13:38:42,309 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task3.py
+2025-05-22 13:38:42,315 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task4.bat
+2025-05-22 13:38:42,318 - INFO - Удаление директории C:\Pyth\TenTes\repo_clone\__pycache__
+2025-05-22 13:38:42,319 - INFO - Переход в директорию src
+2025-05-22 13:38:42,322 - INFO - Обработка части пути: app
+2025-05-22 13:38:42,322 - INFO - Переход в директорию app
+2025-05-22 13:38:42,324 - INFO - Скрипт успешно завершён
+2025-05-22 13:39:09,833 - INFO - ------------------------------
+new log------------------------------
+2025-05-22 13:39:09,834 - INFO - Начало выполнения скрипта
+2025-05-22 13:39:09,834 - INFO - Файл Task2ini.txt найден. Чтение параметров...
+2025-05-22 13:39:09,835 - INFO - Используемые параметры:
+2025-05-22 13:39:09,835 - INFO -   repo_url = https://github.com/OnotoleChel/Tensor
+2025-05-22 13:39:09,835 - INFO -   src_path = src\app
+2025-05-22 13:39:09,836 - INFO -   version  = 25.3000
+2025-05-22 13:39:09,836 - INFO - Клонирование репозитория https://github.com/OnotoleChel/Tensor
+2025-05-22 13:39:10,972 - INFO - Репозиторий успешно клонирован в repo_clone
+2025-05-22 13:39:10,972 - INFO - Переход в директорию repo_clone
+2025-05-22 13:39:10,973 - INFO - Обработка части пути: src
+2025-05-22 13:39:10,973 - INFO - Удаление директории C:\Pyth\TenTes\repo_clone\.git
+2025-05-22 13:39:10,987 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\logger_module.py
+2025-05-22 13:39:10,988 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Move2Cloud.bat
+2025-05-22 13:39:10,989 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\README.md
+2025-05-22 13:39:10,989 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task1.py
+2025-05-22 13:39:10,990 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task1.txt
+2025-05-22 13:39:10,990 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task2.py
+2025-05-22 13:39:10,991 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task2ini.txt
+2025-05-22 13:39:10,992 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task2_Log.txt.log
+2025-05-22 13:39:10,992 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task3.py
+2025-05-22 13:39:10,993 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task4.bat
+2025-05-22 13:39:10,993 - INFO - Удаление директории C:\Pyth\TenTes\repo_clone\__pycache__
+2025-05-22 13:39:10,994 - INFO - Переход в директорию src
+2025-05-22 13:39:10,998 - INFO - Обработка части пути: app
+2025-05-22 13:39:11,000 - INFO - Переход в директорию app
+2025-05-22 13:39:11,001 - INFO - Сборка списка файлов для sVersion.json
+2025-05-22 13:39:11,002 - INFO - Файл sVersion.json успешно создан
+2025-05-22 13:39:11,003 - INFO - Создание архива app22052025.zip
+2025-05-22 13:39:11,005 - INFO - Архив app22052025.zip успешно создан
+2025-05-22 13:39:11,006 - INFO - Скрипт успешно завершён
+2025-05-22 13:39:19,658 - INFO - ------------------------------
+new log------------------------------
+2025-05-22 13:39:19,659 - INFO - Начало выполнения скрипта
+2025-05-22 13:39:19,661 - INFO - Файл Task2ini.txt найден. Чтение параметров...
+2025-05-22 13:39:19,663 - INFO - Используемые параметры:
+2025-05-22 13:39:19,664 - INFO -   repo_url = https://github.com/OnotoleChel/Tensor
+2025-05-22 13:39:19,666 - INFO -   src_path = src\app
+2025-05-22 13:39:19,670 - INFO -   version  = 25.3000
+2025-05-22 13:39:19,672 - INFO - Клонирование репозитория https://github.com/OnotoleChel/Tensor
+2025-05-22 13:39:20,656 - INFO - Репозиторий успешно клонирован в repo_clone
+2025-05-22 13:39:20,660 - INFO - Переход в директорию repo_clone
+2025-05-22 13:39:20,664 - INFO - Обработка части пути: src
+2025-05-22 13:39:20,668 - INFO - Удаление директории C:\Pyth\TenTes\repo_clone\.git
+2025-05-22 13:39:20,683 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\logger_module.py
+2025-05-22 13:39:20,684 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Move2Cloud.bat
+2025-05-22 13:39:20,687 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\README.md
+2025-05-22 13:39:20,690 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task1.py
+2025-05-22 13:39:20,691 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task1.txt
+2025-05-22 13:39:20,693 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task2.py
+2025-05-22 13:39:20,695 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task2ini.txt
+2025-05-22 13:39:20,697 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task2_Log.txt.log
+2025-05-22 13:39:20,699 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task3.py
+2025-05-22 13:39:20,701 - INFO - Удаление файла C:\Pyth\TenTes\repo_clone\Task4.bat
+2025-05-22 13:39:20,702 - INFO - Удаление директории C:\Pyth\TenTes\repo_clone\__pycache__
+2025-05-22 13:39:20,704 - INFO - Переход в директорию src
+2025-05-22 13:39:20,705 - INFO - Обработка части пути: app
+2025-05-22 13:39:20,705 - INFO - Переход в директорию app
+2025-05-22 13:39:20,706 - INFO - Сборка списка файлов для sVersion.json
+2025-05-22 13:39:20,707 - INFO - Файл sVersion.json успешно создан
+2025-05-22 13:39:20,708 - INFO - Создание архива app22052025.zip
+2025-05-22 13:39:20,710 - INFO - Архив app22052025.zip успешно создан
+2025-05-22 13:39:20,711 - INFO - Скрипт успешно завершён

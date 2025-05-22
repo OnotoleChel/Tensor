@@ -133,7 +133,6 @@ for part in path_parts:
         logger_module.log_v2(f"Не удалось перейти в директорию {part}: {e}", "error")
         sys.exit(1)
 
-
 # 4. Создание служебного файла sVersion.json
 try:
     logger_module.log_v2("Сборка списка файлов для sVersion.json")
